@@ -1362,6 +1362,9 @@
   "Swellaby.vscode-rust-test-adapter": {
     "repository": "https://github.com/swellaby/vscode-rust-test-adapter"
   },
+  "swmansion.react-native-ide": {
+    "repository": "https://github.com/software-mansion/radon-ide"
+  },
   "tanhakabir.rest-book": {
     "repository": "https://github.com/tanhakabir/rest-book"
   },
